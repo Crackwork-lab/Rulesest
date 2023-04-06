@@ -1,0 +1,8 @@
+payload:
+  # Syntax referring to Wildcard "+"
+  # https://lancellc.gitbook.io/clash/clash-config-file/syntax
+  - '+.pincong.rocks'
+  - '+.rfi.fr/cn/'
+  - '+.rfa.org/mandarin'
+  - '+.theepochtimes.com'
+  - '+.epochtimes.com'

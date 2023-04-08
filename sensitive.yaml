@@ -12,3 +12,5 @@ payload:
   - '+.podcasts.apple.com'
   - '+.itunes.apple.com'
   - '+.mzstatic.com'
+  - '+.fm'
+  - '+.xp.apple.com'

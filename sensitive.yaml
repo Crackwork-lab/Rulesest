@@ -11,3 +11,4 @@ payload:
   # Some Apple related sites
   - '+.podcasts.apple.com'
   - '+.itunes.apple.com'
+  - '+.mzstatic.com'

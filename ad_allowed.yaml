@@ -1,0 +1,5 @@
+payload:
+  # Syntax referring to Wildcard "+"
+  # https://lancellc.gitbook.io/clash/clash-config-file/syntax
+  # Ads allowed but to be via proxy5
+  - '+.ads.tiktok.com'

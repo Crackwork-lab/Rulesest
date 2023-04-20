@@ -1,0 +1,9 @@
+payload:
+  # Some extra websites need configure to be accessed directly
+  - '+.dianxiaomi.com'
+  - '+.k5.takesend.com' 
+  - '+.yunexpress.cn' 
+  - '+.asin.xuggest.com' 
+  
+  # others
+  - '+.wearesellers.com'

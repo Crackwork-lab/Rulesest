@@ -1,0 +1,15 @@
+payload:
+  # Some weixin (wechat) websites need configure to be accessed directly
+  - '+.dianxiaomi.com'
+  - '+.qlogo.cn'
+  - '+.qpic.cn'
+  - '+.servicewechat.com'
+  - '+.tenpay.com'
+  - '+.wechat.com'
+  - '+.wechatlegal.net'
+  - '+.wechatpay.com'
+  - '+.weixin.com'
+  - '+.weixin.qq.com'
+  - '+.weixinbridge.com'
+  - '+.weixinsxy.com'
+  - '+.wxapp.tc.qq.com'

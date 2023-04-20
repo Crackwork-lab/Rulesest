@@ -1,16 +1,9 @@
 payload:
   # Syntax referring to Wildcard "+"
   # https://lancellc.gitbook.io/clash/clash-config-file/syntax
-  - '+.pincong.rocks'
-  - '+.rfi.fr'
-  - '+.rfa.org'
-  - '+.theepochtimes.com'
-  - '+.epochtimes.com'
-  - '+.ggjav.com'
-  # Some Apple related sites
-  #- '+.podcasts.apple.com'
-  #- '+.itunes.apple.com'
-  #- '+.mzstatic.com'
+  - '+.podcasts.apple.com'
+  - '+.itunes.apple.com'
+  - '+.mzstatic.com'
   #- '+.fm'
   #- '+.xp.apple.com'
-  #- '+.music.apple.com'
+  - '+.music.apple.com'

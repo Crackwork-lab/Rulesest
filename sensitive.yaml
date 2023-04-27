@@ -1,7 +1,6 @@
 payload:
   # Syntax referring to Wildcard "+"
   # https://lancellc.gitbook.io/clash/clash-config-file/syntax
-  # not via proxy5
   - '+.podcasts.apple.com'
   - '+.itunes.apple.com'
   - '+.mzstatic.com'

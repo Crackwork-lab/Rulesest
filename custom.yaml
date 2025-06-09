@@ -1,6 +1,6 @@
 payload:
   # Some custom rules configure to be accessed not by socks5
-  - '+.froninail.com'
+  #- '+.froninail.com'
   - '+.generatepress.com'
   - '+.ojrq.net'
   - '+.live.com'

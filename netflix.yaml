@@ -1,0 +1,11 @@
+payload:
+  # Syntax referring to Wildcard "+"
+  # https://lancellc.gitbook.io/clash/clash-config-file/syntax
+  #- '+.podcasts.apple.com'
+  #- '+.itunes.apple.com'
+  #- '+.mzstatic.com'
+  #- '+.fm'
+  #- '+.xp.apple.com'
+  #- '+.music.apple.com'
+  - '+.netflix.com'
+  - '+.netflix.net'

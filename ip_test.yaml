@@ -1,0 +1,14 @@
+payload:
+  # Some custom rules configure to be accessed not by socks5
+  #- '+.froninail.com'
+  - '+.ipinfo.io'
+  - '+.whatismyipaddress.com'
+  - '+.iplocation.net'
+  - '+.ipgeolocation.io'
+  - '+.ipdata.co'
+  - '+.ipstack.com'
+  - '+.db-ip.com'
+  - '+.ipapi.co'
+  - '+.ipify.org'
+  - '+.myip.com'
+  - '+.checkip.amazonaws.com'
